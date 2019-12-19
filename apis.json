@@ -1,0 +1,53 @@
+{
+    "name": "CarQuery",
+    "description": "CarQuery is an easy to use JSON based API for retrieving detailed car information, including year, make, model, trim, and specifications such as horsepower, torque, msrp, top speed, fuel economy mpg, and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1856-carquery.jpg",
+    "tags": [
+        "api provider",
+        "automobiles",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/carquery\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CarQuery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1856-carquery.jpg",
+            "humanURL": "http:\/\/www.carqueryapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/carquery-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.carqueryapi.com\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.carqueryapi.com\/feed\/"
+        },
+        {
+            "type": "Contact",
+            "url": "http:\/\/www.carqueryapi.com\/contact-2\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CarQueryAPI"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.carqueryapi.com"
+        }
+    ]
+}
